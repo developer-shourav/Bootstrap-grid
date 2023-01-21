@@ -1,3 +1,11 @@
-p{
-    color:rebeccapurple;
+.bg-pink{
+    background-color: #ff4cb4be;
+}
+
+.bg-light-green{
+    background-color: #57d457d7;
+}
+
+.bg-drown{
+    background-color: rgba(255, 145, 82, 0.897);
 }
